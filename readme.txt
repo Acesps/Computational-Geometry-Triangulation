@@ -11,5 +11,3 @@ Then go to build
 Cmake ../
 Make
 ./ComputationalGeometry
-
-for detailed documentation visit https://bhavathireddy.wixsite.com/website
