@@ -1,0 +1,232 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/DCEL.h
+vector
+-
+Vertex.h
+../include/Vertex.h
+Face.h
+../include/Face.h
+HalfEdge.h
+../include/HalfEdge.h
+Point.h
+../include/Point.h
+Triangle.h
+../include/Triangle.h
+
+../include/Face.h
+HalfEdge.h
+../include/HalfEdge.h
+
+../include/Grahams.h
+iostream
+-
+algorithm
+-
+vector
+-
+Point.h
+../include/Point.h
+
+../include/HalfEdge.h
+Vertex.h
+../include/Vertex.h
+Face.h
+../include/Face.h
+
+../include/Jarvis.h
+iostream
+-
+vector
+-
+Point.h
+../include/Point.h
+
+../include/Kirkpatrick.h
+iostream
+-
+algorithm
+-
+list
+-
+vector
+-
+Point.h
+../include/Point.h
+
+../include/List.h
+Point.h
+../include/Point.h
+
+../include/Point.h
+
+../include/RBTree.h
+iostream
+-
+
+../include/SLEdge.h
+SLVertex.h
+../include/SLVertex.h
+
+../include/SLState.h
+queue
+-
+vector
+-
+DCEL.h
+../include/DCEL.h
+SLVertex.h
+../include/SLVertex.h
+SLEdge.h
+../include/SLEdge.h
+RBTree.h
+../include/RBTree.h
+
+../include/SLVertex.h
+Point.h
+../include/Point.h
+SLEdge.h
+../include/SLEdge.h
+
+../include/Sweepline.h
+vector
+-
+list
+-
+Point.h
+../include/Point.h
+SLVertex.h
+../include/SLVertex.h
+SLState.h
+../include/SLState.h
+SLEdge.h
+../include/SLEdge.h
+DCEL.h
+../include/DCEL.h
+Triangle.h
+../include/Triangle.h
+
+../include/Triangle.h
+Point.h
+../include/Point.h
+
+../include/Vertex.h
+Point.h
+../include/Point.h
+HalfEdge.h
+../include/HalfEdge.h
+
+../include/Visualize.h
+opencv/cv.h
+-
+DCEL.h
+../include/DCEL.h
+
+/mnt/E:/ComputaionalGeo/Computational Geometry/src/DCEL.cpp
+algorithm
+-
+stack
+-
+iostream
+-
+DCEL.h
+/mnt/E:/ComputaionalGeo/Computational Geometry/src/DCEL.h
+
+/mnt/E:/ComputaionalGeo/Computational Geometry/src/Face.cpp
+Face.h
+/mnt/E:/ComputaionalGeo/Computational Geometry/src/Face.h
+
+/mnt/E:/ComputaionalGeo/Computational Geometry/src/Grahams.cpp
+Grahams.h
+/mnt/E:/ComputaionalGeo/Computational Geometry/src/Grahams.h
+
+/mnt/E:/ComputaionalGeo/Computational Geometry/src/HalfEdge.cpp
+HalfEdge.h
+/mnt/E:/ComputaionalGeo/Computational Geometry/src/HalfEdge.h
+
+/mnt/E:/ComputaionalGeo/Computational Geometry/src/Jarvis.cpp
+Jarvis.h
+/mnt/E:/ComputaionalGeo/Computational Geometry/src/Jarvis.h
+
+/mnt/E:/ComputaionalGeo/Computational Geometry/src/Kirkpatrick.cpp
+Kirkpatrick.h
+/mnt/E:/ComputaionalGeo/Computational Geometry/src/Kirkpatrick.h
+
+/mnt/E:/ComputaionalGeo/Computational Geometry/src/List.cpp
+List.h
+/mnt/E:/ComputaionalGeo/Computational Geometry/src/List.h
+
+/mnt/E:/ComputaionalGeo/Computational Geometry/src/Point.cpp
+Point.h
+/mnt/E:/ComputaionalGeo/Computational Geometry/src/Point.h
+
+/mnt/E:/ComputaionalGeo/Computational Geometry/src/SLEdge.cpp
+SLEdge.h
+/mnt/E:/ComputaionalGeo/Computational Geometry/src/SLEdge.h
+limits
+-
+
+/mnt/E:/ComputaionalGeo/Computational Geometry/src/SLState.cpp
+SLState.h
+/mnt/E:/ComputaionalGeo/Computational Geometry/src/SLState.h
+SLVertex.h
+/mnt/E:/ComputaionalGeo/Computational Geometry/src/SLVertex.h
+SLEdge.h
+/mnt/E:/ComputaionalGeo/Computational Geometry/src/SLEdge.h
+limits
+-
+
+/mnt/E:/ComputaionalGeo/Computational Geometry/src/SLVertex.cpp
+SLVertex.h
+/mnt/E:/ComputaionalGeo/Computational Geometry/src/SLVertex.h
+SLEdge.h
+/mnt/E:/ComputaionalGeo/Computational Geometry/src/SLEdge.h
+
+/mnt/E:/ComputaionalGeo/Computational Geometry/src/Sweepline.cpp
+algorithm
+-
+Sweepline.h
+/mnt/E:/ComputaionalGeo/Computational Geometry/src/Sweepline.h
+RBTree.h
+/mnt/E:/ComputaionalGeo/Computational Geometry/src/RBTree.h
+queue
+-
+
+/mnt/E:/ComputaionalGeo/Computational Geometry/src/Vertex.cpp
+Vertex.h
+/mnt/E:/ComputaionalGeo/Computational Geometry/src/Vertex.h
+
+/mnt/E:/ComputaionalGeo/Computational Geometry/src/Visualize.cpp
+Visualize.h
+/mnt/E:/ComputaionalGeo/Computational Geometry/src/Visualize.h
+
+/mnt/E:/ComputaionalGeo/Computational Geometry/src/triangulation.cpp
+iostream
+-
+vector
+-
+mutex
+-
+condition_variable
+-
+opencv2/opencv.hpp
+-
+Point.h
+/mnt/E:/ComputaionalGeo/Computational Geometry/src/Point.h
+DCEL.h
+/mnt/E:/ComputaionalGeo/Computational Geometry/src/DCEL.h
+Sweepline.h
+/mnt/E:/ComputaionalGeo/Computational Geometry/src/Sweepline.h
+Vertex.h
+/mnt/E:/ComputaionalGeo/Computational Geometry/src/Vertex.h
+stdio.h
+-
+iomanip
+-
+

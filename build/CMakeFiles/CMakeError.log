@@ -1,0 +1,26 @@
+Detecting C [-std=c11] compiler features failed to compile with the following output:
+Change Dir: /mnt/E:/ComputaionalGeo/Computational Geometry/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_619c3/fast"
+/usr/bin/make -f CMakeFiles/cmTC_619c3.dir/build.make CMakeFiles/cmTC_619c3.dir/build
+make[1]: Entering directory '/mnt/E:/ComputaionalGeo/Computational Geometry/build/CMakeFiles/CMakeTmp'
+CMakeFiles/cmTC_619c3.dir/build.make:64: *** target pattern contains no '%'.  Stop.
+make[1]: Leaving directory '/mnt/E:/ComputaionalGeo/Computational Geometry/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_619c3/fast' failed
+make: *** [cmTC_619c3/fast] Error 2
+
+
+
+Detecting CXX [-std=c++1z] compiler features failed to compile with the following output:
+Change Dir: /mnt/E:/ComputaionalGeo/Computational Geometry/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_b221f/fast"
+/usr/bin/make -f CMakeFiles/cmTC_b221f.dir/build.make CMakeFiles/cmTC_b221f.dir/build
+make[1]: Entering directory '/mnt/E:/ComputaionalGeo/Computational Geometry/build/CMakeFiles/CMakeTmp'
+CMakeFiles/cmTC_b221f.dir/build.make:64: *** target pattern contains no '%'.  Stop.
+make[1]: Leaving directory '/mnt/E:/ComputaionalGeo/Computational Geometry/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_b221f/fast' failed
+make: *** [cmTC_b221f/fast] Error 2
+
+
+

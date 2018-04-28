@@ -1,0 +1,3 @@
+/mnt/E:/ComputaionalGeo/Computational Geometry/build/CMakeFiles/rebuild_cache.dir
+/mnt/E:/ComputaionalGeo/Computational Geometry/build/CMakeFiles/ComputionalGeometry.dir
+/mnt/E:/ComputaionalGeo/Computational Geometry/build/CMakeFiles/edit_cache.dir
